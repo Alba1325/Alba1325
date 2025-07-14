@@ -16,9 +16,33 @@
   <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000"/>
 </div>
  <br>
+ 
+## Herramientas 🧰
 
+<div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://cdn.splunkbase.splunk.com/media/public/icons/bf565236-1703-11f0-a711-3e597fcda46c.svg"/  width="120"; style="margin-right:10px ">
+  <img src="https://volatilityfoundation.org/wp-content/uploads/2023/12/Volatility-newest-png-crop.png"/ width="120"; style="margin-right:10px;">
+  <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000"/>
+</div>
+ <br>
+ <!--
+ 🟢 **Burp Suite** — 
+ ⭐☆☆☆☆ (Iniciando)
+ ⭐⭐☆☆☆ (Uso básico)
+ ⭐⭐⭐☆☆ (Buen manejo)
+ ⭐⭐⭐⭐☆ (Dominio alto)
+ ⭐⭐⭐⭐⭐ (Manejo con soltura)
+ -->
+ 
 ## Formaciones y Certificaciones 🏅
 
+Formación Reglada:
+- IFCT_0109: Seguridad Informática (510 h)
+
+Certificados:
+- Introduccion a Cisco Packet Tracer 
+- Monitorización y respuesta a incidentes en Azure M365
+  
 <div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/>
  
