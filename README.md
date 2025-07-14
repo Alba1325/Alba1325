@@ -8,13 +8,24 @@
 - :books: Mi objetivo es ser **Forense Digital**
 - :sweat_smile: Actualmente me estoy centrando en aprender más de redes.
 ---
+<p align="center">
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJkdm80dmJmcW0ybnI2Y3hpdzAxNzZtMTRka2psaGdnbDd5cnhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vR1dPIYzQmkRzLZk2w/giphy.gif" width="300"/> 
+  
+<!--
+## Certificaciones
+## Proyectos
+## Eventos y ponencias 
+## Apuntes
+-->
+
+---
 
 ## Contacto 🖋️
 
 <div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
   <a target="_blank" href="https://www.linkedin.com/in/alba-p-5160562ba/">
     <img src="https://img.icons8.com/?size=100&id=DlBWhISuNDyc&format=png&color=000000" style="height: 70px; width: auto;" />
-  </a>
+ </a>
   <a target="_blank" href="https://medium.com/@Tripolaris">
     <img src="https://img.icons8.com/?size=100&id=bocK2vOACVtF&format=png&color=000000" style="height: 70px; width: auto;" />
   </a>
@@ -22,9 +33,6 @@
 
 
   <!--
-- 🔭 Buscando mi primera oportunidad laboral.
-- 🌱 Reforzando mis bases de sistemas y redes.
-Nombre y breve descripción
 
 Especialización e intereses (ej: Ciberseguridad - Blue Team, Forense Digital)
 
