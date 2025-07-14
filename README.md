@@ -9,7 +9,19 @@
 - :sweat_smile: Actualmente me estoy centrando en aprender más de redes.
 ---
 
-<!--
+## Contacto 🖋️
+
+<div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <a target="_blank" href="https://www.linkedin.com/in/alba-p-5160562ba/">
+    <img src="https://img.icons8.com/?size=100&id=DlBWhISuNDyc&format=png&color=000000" style="height: 70px; width: auto;" />
+  </a>
+  <a target="_blank" href="https://medium.com/@Tripolaris">
+    <img src="https://img.icons8.com/?size=100&id=bocK2vOACVtF&format=png&color=000000" style="height: 70px; width: auto;" />
+  </a>
+
+
+
+  <!--
 - 🔭 Buscando mi primera oportunidad laboral.
 - 🌱 Reforzando mis bases de sistemas y redes.
 Nombre y breve descripción
