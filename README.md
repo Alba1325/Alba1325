@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Yogesh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
+<br>
+<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
+ Hello world
+</p>
 <!--
 **Alba1325/Alba1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
