@@ -6,8 +6,7 @@
 - :school: Actualmente estoy formandome en ciberseguridad **Tokio School** y en **The Bridge**
 - :books: Mi objetivo es ser **Forense Digital**
 - :sweat_smile: Actualmente me estoy centrando en aprender más de redes.
----
-<p align="left">
+  <br>
   
 ## Sistemas Operativos 🖥️
 
@@ -15,19 +14,21 @@
   <img src="https://img.icons8.com/?size=100&id=gXoJoyTtYXFg&format=png&color=000000"/ style="margin-right:10px;">
   <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000"/ style="margin-right:10px;">
   <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000"/>
-
----
+</div>
+ <br>
 
 ## Formaciones y Certificaciones 🏅
 
 <div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/>
  
-#
+</div>
 
 ## CTFs 🚩
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/>
+<div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/>
+</div>
 
 <!--
 - Overthewire
@@ -43,11 +44,15 @@
   -->
 ## Apuntes 📖
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/>
+<div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/> 
+</div>
 
 ## Proyectos 📝
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/>
+<div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBnMnhweDlramE0bGpiMXA4MndvZDVqcmIwdjNleDlnczd5NWd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HH8AYABoO4ICAa0Dx9/giphy.gif" width="300"/>
+</div>
 
 ---
 
