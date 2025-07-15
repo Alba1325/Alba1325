@@ -22,7 +22,7 @@
 <div align="center" class="icons-social" style="margin-left: 10px; display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://cdn.splunkbase.splunk.com/media/public/icons/bf565236-1703-11f0-a711-3e597fcda46c.svg"/  width="120"; style="margin-right:10px ">
   <img src="https://volatilityfoundation.org/wp-content/uploads/2023/12/Volatility-newest-png-crop.png"/ width="120"; style="margin-right:10px;">
-  <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000"/>
+ 
 </div>
  <br>
  <!--
